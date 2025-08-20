@@ -1,2 +1,5 @@
 Hello, 
 My name is Mame Faty, I'm from Senegal and I recently moved to Geneva. I have a bachelor in physics. I took an introductory class to programming across several languages and I did an internship using machine learning to predict earthquakes. I'm also proficient in LaTex.
+
+
+I hope to refresh and reinforce my data processing and data analysis skills for an application in physics, business, or health. I trust this course will better prepare me for future job and master program applications in either of those fields.
