@@ -1,0 +1,1 @@
+My first commit. I’m creating a .txt file and saving it in the same location of my newly created repository
